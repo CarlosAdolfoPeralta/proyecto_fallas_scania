@@ -109,7 +109,7 @@ In all five runs the cost was below 9,920 (maximum 9,360), so the result is of t
 ## Repository structure
 
 ```
-proyecto_fallas_scania/
+project_failures_scania/
 ├── notebooks/
 │   └── fallas_scania.ipynb
 ├── reports/
