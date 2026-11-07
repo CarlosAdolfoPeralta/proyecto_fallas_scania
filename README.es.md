@@ -1,3 +1,4 @@
+🇬🇧 [Read in English](README.md)
 # Predicción de fallas del sistema de aire (APS) en camiones Scania
 
 Clasificación con clases desbalanceadas y **costos asimétricos**: ¿qué camiones conviene mandar a revisión para minimizar el costo total?
@@ -107,7 +108,7 @@ En las cinco corridas el costo fue menor a 9.920 (máximo 9.360), por lo que el 
 ## Estructura del repositorio
 
 ```
-proyecto_fallas_scania/
+project_failures_scania/
 ├── notebooks/
 │   └── fallas_scania.ipynb
 ├── reports/
